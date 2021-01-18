@@ -1,0 +1,34 @@
+@media screen and (max-width: 650px) {
+	.titre {
+		font-size: 50px!important;
+	}
+	.dut {
+		font-size: 30px!important;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.ppresentation {
+		font-size: 15px!important;
+	}
+	.titre {
+		font-size: 40px!important;
+	}
+	.dut {
+		font-size: 20px!important;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.introcontact {
+		font-size: 18px!important;
+	}
+	.mail {
+		font-size: 10px!important;
+	}
+	.titre {
+		font-size: 30px!important;
+	}
+}
+
+
